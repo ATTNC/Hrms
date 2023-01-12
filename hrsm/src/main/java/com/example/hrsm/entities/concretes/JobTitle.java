@@ -1,9 +1,12 @@
 package com.example.hrsm.entities.concretes;
 
 
-import jakarta.persistence.*;
+
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
+
+import javax.persistence.*;
+
 
 @Entity
 @Table(name = "job_titles")

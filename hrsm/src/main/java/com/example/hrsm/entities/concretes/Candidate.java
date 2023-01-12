@@ -1,6 +1,10 @@
 package com.example.hrsm.entities.concretes;
 
-import jakarta.persistence.*;
+
+
+
+import javax.persistence.*;
+
 
 @Entity
 @Table(name = "candidates")
